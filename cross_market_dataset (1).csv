@@ -1,0 +1,10 @@
+Country,Market_Score,Population_M,GDP_per_Capita,Mobile_Money_Users_M,Digital_Adoption_Pct,Regulatory_Score,Expected_ROI_Pct,Risk_Factor,Market_Tier
+Nigeria,87.3,218.5,2085,45.2,89.2,8.5,150,0.23,Tier 1
+Kenya,84.1,54.0,1838,32.1,94.3,9.2,165,0.18,Tier 1
+South Africa,78.9,60.4,6994,18.5,82.1,7.8,140,0.15,Tier 1
+Ghana,71.2,32.8,2328,19.8,75.6,7.2,120,0.25,Tier 2
+Uganda,65.8,47.1,817,28.4,68.9,5.8,115,0.32,Tier 2
+Tanzania,63.4,61.5,1122,31.2,71.2,4.9,108,0.28,Tier 2
+Rwanda,72.1,13.3,822,8.9,78.4,8.7,95,0.12,Tier 3
+Senegal,58.3,17.2,1488,12.3,65.3,6.1,88,0.22,Tier 3
+Zambia,51.7,19.6,1137,9.8,45.8,4.5,78,0.35,Tier 3
